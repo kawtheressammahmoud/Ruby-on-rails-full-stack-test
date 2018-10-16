@@ -14,6 +14,6 @@ Please carry on the following task:
  
  - please find the task for the Ruby Backend Position:
  
-   - Given the algorithm attached, how can we refactor the code to conform to DRY and SOLID principles.
+   - Given the algorithm attached `pricing_algorithm.rb`, how can we refactor the code to conform to DRY and SOLID principles.
    
    - Upon completion, you can push your solution to github
