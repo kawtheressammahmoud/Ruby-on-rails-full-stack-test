@@ -1,5 +1,5 @@
 # Ruby-on-rails-full-stack-test
-Please carry on the following task:
+Please carry on the following tasks:
 
 # 1. API Task
 - In this api integration challenge, you will define an input which can accept a user email and validate if the email really exists. So for example, if a user enters 'cv@internsvalley.com', it will show a success message to the user. But if he enters 'test@example.com' and given that 'example.com' does not exist as an SMTP domain, it will show an error message. https://mailboxlayer.com will show you live demonstration.
