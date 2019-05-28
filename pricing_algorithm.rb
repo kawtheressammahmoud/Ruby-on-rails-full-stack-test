@@ -1,3 +1,4 @@
+# pushing test 
 if brand.rating = high
   if price_reference < 15
     price_suggestion = (price_reference - product_database.shipping_cost * 0.75) * 1.1
